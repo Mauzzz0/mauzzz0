@@ -1,14 +1,25 @@
 <h1 align="center">Добро пожаловать 👋</h1>
+<h6 align="center">Welcome 👋</h6>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauzzz0&label=Profile%20views&color=0e75b6&style=flat" alt="mauzzz0" /> </p>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=mauzzz0&label=Profile%20views&color=0e75b6&style=flat" alt="mauzzz0" height="20" />
+</p>
+<p>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="20" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20" />
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" height="20" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" height="20" />
+    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="webstorm" height="20" />
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" height="20" />
+</p>
 
 ## 🧑‍💻 Ruslan | Senior Node.JS Backend Developer
 * 🏢 На данный момент работаю в [Mitgo](https://mitgo.com/) (аффилированный маркетинг)
-* 🤝 Занимаюсь менторством **Node.JS разработчиков** - обучаю людей **с нуля до трудоустройства**
+* 🤝 Занимаюсь личным менторством **Node.JS разработчиков** - обучаю людей **с нуля до трудоустройства**
 
 ###### English
 * 🏢 Currently working at [Mitgo](https://mitgo.com/) (affiliate marketing)
-* 🤝 Also mentoring **Node.JS Developers** - teaching **from scratch to employment**
+* 🤝 Also private mentoring **Node.JS Developers** - teaching **from scratch to employment**
 
 
 <h4 align="left">📞 Contacts</h4>
