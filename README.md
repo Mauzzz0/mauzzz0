@@ -13,8 +13,8 @@
 
 <h4 align="left">📞 Contacts</h4>
 <p align="left">
-    <a href="https://t.me/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a>
-    <a href="https://www.linkedin.com/in/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/> </a>
+    <a href="https://t.me/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
+    <a href="https://www.linkedin.com/in/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Languages and Tools</h4>
