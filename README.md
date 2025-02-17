@@ -3,6 +3,7 @@
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=mauzzz0&label=Profile%20views&color=0e75b6&style=flat" alt="mauzzz0" height="20" />
+    <img src="https://badgen.net/badge/color/Открыт к предложениям/green?label=%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81" alt="mauzzz0" height="20" />
 </p>
 <p>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="20" />
@@ -14,10 +15,12 @@
 </p>
 
 ## 🧑‍💻 Ruslan | Senior Node.JS Backend Developer
+* ✨ Опыт работы **более 5 лет**
 * 🏢 На данный момент работаю в [Mitgo](https://mitgo.com/) (аффилированный маркетинг)
 * 🤝 Занимаюсь личным менторством **Node.JS разработчиков** - обучаю людей **с нуля до трудоустройства**
 
 ###### English
+* ✨ Experienced over 5 years
 * 🏢 Currently working at [Mitgo](https://mitgo.com/) (affiliate marketing)
 * 🤝 Also private mentoring **Node.JS Developers** - teaching **from scratch to employment**
 
@@ -25,6 +28,7 @@
 <h4 align="left">📞 Contacts</h4>
 <p align="left">
     <a href="https://t.me/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
+    <a href="https://hh.ru/resume/03dad281ff07e967650039ed1f7a3163335743" target="_blank" rel="noreferrer"> <img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="headhunter" width="40" height="40"/> </a>
     <a href="https://www.linkedin.com/in/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
