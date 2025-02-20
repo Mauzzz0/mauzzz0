@@ -14,18 +14,18 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" height="20" />
 </p>
 
-## 🧑‍💻 Ruslan | Senior Node.JS Backend Developer
-* ✨ Опыт работы **более 5 лет**
-* 🏢 На данный момент работаю в [Mitgo](https://mitgo.com/) (аффилированный маркетинг)
-* 🤝 Занимаюсь личным менторством **Node.JS разработчиков** - обучаю людей **с нуля до трудоустройства**
+<h3><img src=".github/static/man-technologist.png" alt="Ruslan Semak" height="20" /> Ruslan | Senior Node.JS Backend Developer</h3>
+<li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Опыт работы <b>более 5 лет</b></li>
+<li><img src=".github/static/office.png" alt="Office" height="14" /> На данный момент работаю в <a href="https://mitgo.com/">Mitgo Group</a> (аффилированный маркетинг)</li>
+<li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Занимаюсь личным менторством <b>Node.JS разработчиков</b> - обучаю людей <b>с нуля до трудоустройства</b></li>
 
-###### English
-* ✨ Experienced over 5 years
-* 🏢 Currently working at [Mitgo](https://mitgo.com/) (affiliate marketing)
-* 🤝 Also private mentoring **Node.JS Developers** - teaching **from scratch to employment**
+<h6>English</h3>
+<li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Experienced <b>over 5 years</b></li>
+<li><img src=".github/static/office.png" alt="Office" height="14" /> Currently working at <a href="https://mitgo.com/">Mitgo Group</a> (affiliate marketing)</li>
+<li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Also private mentoring <b>Node.JS Developers</b> - teaching <b>from scratch to employment</b></li>
 
 
-<h4 align="left">📞 Contacts</h4>
+<h3 align="left"><img src=".github/static/telephone.png" alt="Telephone" height="14" /> Contacts</h3>
 <p align="left">
     <a href="https://t.me/mauzzz0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
     <a href="https://hh.ru/resume/03dad281ff07e967650039ed1f7a3163335743" target="_blank" rel="noreferrer"> <img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="headhunter" width="40" height="40"/> </a>
