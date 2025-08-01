@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" height="20" />
 </p>
 
-<h3><img src=".github/static/man-technologist.png" alt="Ruslan Semak" height="20" /> Ruslan | Senior Node.JS Backend Developer</h3>
+<h3><img src=".github/static/man-technologist.png" alt="Ruslan Semak" height="20" /> Ruslan | Senior Node.JS / Go Backend Developer</h3>
 <li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Опыт работы <b>более 5 лет</b></li>
 <li><img src=".github/static/office.png" alt="Office" height="14" /> На данный момент работаю в <a href="https://mitgo.com/">Mitgo Group</a> (аффилированный маркетинг)</li>
 <li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Занимаюсь личным менторством <b>Node.JS разработчиков</b> - обучаю людей <b>с нуля до трудоустройства</b></li>
@@ -34,6 +34,7 @@
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
+    <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
@@ -65,6 +66,7 @@
 <p align="left">
     <a href="https://apple.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/goland/" target="_blank" rel="noreferrer"> <img src="https://iconlogovector.com/uploads/images/2024/04/lg-661b23c95b4cc-GoLand.webp" alt="goland" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" alt="datagrip" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
