@@ -16,13 +16,11 @@
 
 <h3><img src=".github/static/man-technologist.png" alt="Ruslan Semak" height="20" /> Ruslan | Senior Node.JS / Go Backend Developer</h3>
 <li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Опыт работы <b>более 5 лет</b></li>
-<li><img src=".github/static/office.png" alt="Office" height="14" /> На данный момент работаю в <a href="https://mitgo.com/">Mitgo Group</a> (аффилированный маркетинг)</li>
 <li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Занимаюсь личным менторством <b>Node.JS разработчиков</b> - обучаю людей <b>с нуля до трудоустройства</b></li>
 
 <h6>English</h3>
 <li><img src=".github/static/sparkles.png" alt="Sparkles" height="14" /> Experienced <b>over 5 years</b></li>
-<li><img src=".github/static/office.png" alt="Office" height="14" /> Currently working at <a href="https://mitgo.com/">Mitgo Group</a> (affiliate marketing)</li>
-<li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Also private mentoring <b>Node.JS Developers</b> - teaching <b>from scratch to employment</b></li>
+<li><img src=".github/static/handshake.png" alt="Handshake" height="14" /> Also, private mentoring <b>Node.JS Developers</b> - teaching <b>from scratch to employment</b></li>
 
 
 <h3 align="left"><img src=".github/static/telephone.png" alt="Telephone" height="14" /> Contacts</h3>
